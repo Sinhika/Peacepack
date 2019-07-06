@@ -1,0 +1,12 @@
+  {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+            "XXX"
+        ],
+        "key": {
+            "X": { "item": "minecraft:bone_meal" }
+        },
+        "result": {
+            "item": "minecraft:bone"
+        }
+    }

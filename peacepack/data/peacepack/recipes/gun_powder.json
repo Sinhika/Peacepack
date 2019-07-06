@@ -1,0 +1,17 @@
+ {
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XXX",
+		"CYC",
+		"XXX"
+	],
+	"key": {
+		"C" : { "tag" : "peacepack:carbon" },
+		"Y" : { "item" : "minecraft:redstone" },
+		"X" : { "item" : "minecraft:bone_meal" }
+	},
+	"result": {
+		"item": "minecraft:gunpowder",
+		"count": 9
+	}
+ }
